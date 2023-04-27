@@ -31,7 +31,7 @@ I am Surendra Choudhary, currently working as a Software Engineer at the [BALCO]
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![.NET][(https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](https://img.shields.io/badge/.NET-.NET-brightgreen)
+![.NET](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![SQL](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Artificial Intelligence](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Machine Learning](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
